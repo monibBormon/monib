@@ -1,11 +1,11 @@
-<h1 align="center">Hello, I'm 🖐 Monib Bormon</h1>
+<h1 align="center">Hello,🖐 I'm Monib Bormon</h1>
 <h3 align="center">Junior Web Developer</h3>
 
 - 🔭 Enhancing my knowledge on web development. Check out my [Portfolio](https://monib-bormon.netlify.app/)
 
-- 🌱 I’m currently learning **Mern Stack, React Js**
-
-- 👀 If needed mail me **monibbormon@gmail.com**
+- 🌱 I’m currently learning **Mern Stack**
+- 💬 Reach out to me for discussions around HTML, CSS, JavaScript, ReactJS, Node.js, Express Js & MongoDB
+- 👀 If needed email me **monibbormon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
