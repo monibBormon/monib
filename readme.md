@@ -1,4 +1,4 @@
-## Welcome to Monib's GIT world 👋 <a href="https://www.linkedin.com/in/monib-bormon-963b81176/" rel="noopener noreferrer" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="monib" /></a> 
+## Welcome to Monib Bormon's GIT world 👋 <a href="https://twitter.com/monib_bormon" rel="noopener noreferrer" target="_blank"><img src="https://img.shields.io/twitter/follow/supminn?logo=twitter&style=for-the-badge" alt="monib" /></a> 
 
 ### 👩‍💻Front End Developer, entering into MERN stack developer.
 
