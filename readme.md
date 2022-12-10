@@ -3,7 +3,7 @@
 
 - 🔭 Enhancing my knowledge on web development. Check out my [Portfolio](https://monibbormon.com)
 
-- 🌱 I’m currently working on **Mern Stack**
+- 🌱 I’m currently working on **MERN Stack**
 - 💬 Reach out to me for discussions around HTML, CSS, JavaScript, ReactJS, Next Js, Typescript, Node.js, Express Js, Mongoose & MongoDB
 - 👀 If needed email me **monibbormon@gmail.com**
 
