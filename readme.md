@@ -4,7 +4,7 @@
 - 🔭 Enhancing my knowledge on web development. Check out my [Portfolio](https://monib-bormon.netlify.app/)
 
 - 🌱 I’m currently learning **Mern Stack**
-- 💬 Reach out to me for discussions around HTML, CSS, JavaScript, ReactJS, Node.js, Express Js & MongoDB
+- 💬 Reach out to me for discussions around HTML, CSS, JavaScript, ReactJS, Next Js, Typescript, Node.js, Express Js, Mongoose & MongoDB
 - 👀 If needed email me **monibbormon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
