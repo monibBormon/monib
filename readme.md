@@ -1,5 +1,5 @@
 <h1 align="center">Hello,🖐 I'm Monib Bormon</h1>
-<h3 align="center">Junior Web Developer</h3>
+<h3 align="center">Full Stack Web Application Developer(MERN)</h3>
 
 - 🔭 Enhancing my knowledge on web development. Check out my [Portfolio](https://monib-bormon.netlify.app/)
 
