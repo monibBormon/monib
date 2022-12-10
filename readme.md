@@ -1,7 +1,7 @@
 <h1 align="center">Hello,🖐 I'm Monib Bormon</h1>
 <h3 align="center">Full Stack Web Application Developer(MERN)</h3>
 
-- 🔭 Enhancing my knowledge on web development. Check out my [Portfolio](https://monib-bormon.netlify.app/)
+- 🔭 Enhancing my knowledge on web development. Check out my [Portfolio](https://monibbormon.com)
 
 - 🌱 I’m currently learning **Mern Stack**
 - 💬 Reach out to me for discussions around HTML, CSS, JavaScript, ReactJS, Next Js, Typescript, Node.js, Express Js, Mongoose & MongoDB
